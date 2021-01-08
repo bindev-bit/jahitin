@@ -35,52 +35,50 @@ export default function Navbar(props) {
           >
             <ul className="flex flex-col lg:flex-row list-none lg:ml-auto">
               <li className="flex items-center">
-                <a
+                <Link
                   className="hover:text-gray-600 text-gray-800 px-3 py-4 lg:py-2 flex items-center text-xs uppercase font-bold"
-                  href="/landing"
+                  to="/landing"
                 >
                   About
-                </a>
+                </Link>
               </li>
               <li className="flex items-center">
-                <a
+                <Link
                   className="hover:text-gray-600 text-gray-800 px-3 py-4 lg:py-2 flex items-center text-xs uppercase font-bold"
-                  href="/product"
+                  to="/product"
                 >
                   Product
-                </a>
+                </Link>
               </li>
               <li className="flex items-center">
-                <a
+                <Link
                   className="hover:text-gray-600 text-gray-800 px-3 py-4 lg:py-2 flex items-center text-xs uppercase font-bold"
-                  href="#"
-                  target="_blank"
+                  to="/"
                 >
                   <i className="text-gray-500 fab fa-facebook text-lg leading-lg " />
                   <span className="lg:hidden inline-block ml-2">Share</span>
-                </a>
+                </Link>
               </li>
 
               <li className="flex items-center">
-                <a
+                <Link
                   className="hover:text-gray-600 text-gray-800 px-3 py-4 lg:py-2 flex items-center text-xs uppercase font-bold"
-                  href="#"
-                  target="_blank"
+                  to="/"
                 >
                   <i className="text-gray-500 fab fa-twitter text-lg leading-lg " />
                   <span className="lg:hidden inline-block ml-2">Tweet</span>
-                </a>
+                </Link>
               </li>
 
               <li className="flex items-center">
-                <a
+                <Link
                   className="hover:text-gray-600 text-gray-800 px-3 py-4 lg:py-2 flex items-center text-xs uppercase font-bold"
-                  href="#"
+                  to="/"
                   target="_blank"
                 >
                   <i className="text-gray-500 fab fa-github text-lg leading-lg " />
                   <span className="lg:hidden inline-block ml-2">Star</span>
-                </a>
+                </Link>
               </li>
 
               <li className="flex items-center">

@@ -90,7 +90,7 @@ export default function Footer() {
                     <li>
                       <a
                         className="text-gray-700 hover:text-gray-900 font-semibold block pb-2 text-sm"
-                        href="#"
+                        href="/"
                       >
                         MIT License
                       </a>
@@ -98,7 +98,7 @@ export default function Footer() {
                     <li>
                       <a
                         className="text-gray-700 hover:text-gray-900 font-semibold block pb-2 text-sm"
-                        href="#"
+                        href="/"
                       >
                         Terms & Conditions
                       </a>
@@ -106,7 +106,7 @@ export default function Footer() {
                     <li>
                       <a
                         className="text-gray-700 hover:text-gray-900 font-semibold block pb-2 text-sm"
-                        href="#"
+                        href="/"
                       >
                         Privacy Policy
                       </a>
