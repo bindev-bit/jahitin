@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ce5450227a7d596fc7d880ecac8b3b65",
+    "revision": "6a8c77a693448c1fba4e0dc3db94e1f7",
     "url": "/jahitin/index.html"
   },
   {
-    "revision": "068ee01491c1b28d83fb",
+    "revision": "2f8908b6c1b73f6b27b1",
     "url": "/jahitin/static/css/2.7b692d67.chunk.css"
   },
   {
-    "revision": "06dd14ff3c50040cfea5",
+    "revision": "1f2c04d2b6156aa43451",
     "url": "/jahitin/static/css/main.0a71a956.chunk.css"
   },
   {
-    "revision": "068ee01491c1b28d83fb",
-    "url": "/jahitin/static/js/2.cbd34eb7.chunk.js"
+    "revision": "2f8908b6c1b73f6b27b1",
+    "url": "/jahitin/static/js/2.6c78351a.chunk.js"
   },
   {
     "revision": "edf358918d0041c12a191abeb1ed6a7a",
-    "url": "/jahitin/static/js/2.cbd34eb7.chunk.js.LICENSE.txt"
+    "url": "/jahitin/static/js/2.6c78351a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "06dd14ff3c50040cfea5",
-    "url": "/jahitin/static/js/main.3a395ae8.chunk.js"
+    "revision": "1f2c04d2b6156aa43451",
+    "url": "/jahitin/static/js/main.8ce1a0ca.chunk.js"
   },
   {
     "revision": "22e97174b928cf0fcc4f",
