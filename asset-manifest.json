@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/jahitin/static/css/main.0a71a956.chunk.css",
-    "main.js": "/jahitin/static/js/main.2860879c.chunk.js",
-    "main.js.map": "/jahitin/static/js/main.2860879c.chunk.js.map",
+    "main.js": "/jahitin/static/js/main.1a8dac58.chunk.js",
+    "main.js.map": "/jahitin/static/js/main.1a8dac58.chunk.js.map",
     "runtime-main.js": "/jahitin/static/js/runtime-main.38e7b988.js",
     "runtime-main.js.map": "/jahitin/static/js/runtime-main.38e7b988.js.map",
     "static/css/2.7b692d67.chunk.css": "/jahitin/static/css/2.7b692d67.chunk.css",
     "static/js/2.6c78351a.chunk.js": "/jahitin/static/js/2.6c78351a.chunk.js",
     "static/js/2.6c78351a.chunk.js.map": "/jahitin/static/js/2.6c78351a.chunk.js.map",
     "index.html": "/jahitin/index.html",
-    "precache-manifest.ce42ccf3d50a3db02391bad09dd03376.js": "/jahitin/precache-manifest.ce42ccf3d50a3db02391bad09dd03376.js",
+    "precache-manifest.d1cabf4d53c52b6cc3eafdf80291e43a.js": "/jahitin/precache-manifest.d1cabf4d53c52b6cc3eafdf80291e43a.js",
     "service-worker.js": "/jahitin/service-worker.js",
     "static/css/2.7b692d67.chunk.css.map": "/jahitin/static/css/2.7b692d67.chunk.css.map",
     "static/css/main.0a71a956.chunk.css.map": "/jahitin/static/css/main.0a71a956.chunk.css.map",
@@ -35,6 +35,6 @@
     "static/css/2.7b692d67.chunk.css",
     "static/js/2.6c78351a.chunk.js",
     "static/css/main.0a71a956.chunk.css",
-    "static/js/main.2860879c.chunk.js"
+    "static/js/main.1a8dac58.chunk.js"
   ]
 }
