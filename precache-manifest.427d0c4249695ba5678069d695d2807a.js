@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "29f240192d65ed26f48cef619ebee925",
+    "revision": "ce5450227a7d596fc7d880ecac8b3b65",
     "url": "/jahitin/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/jahitin/static/css/2.7b692d67.chunk.css"
   },
   {
-    "revision": "636a1150ef4ddd595b6f",
+    "revision": "06dd14ff3c50040cfea5",
     "url": "/jahitin/static/css/main.0a71a956.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/jahitin/static/js/2.cbd34eb7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "636a1150ef4ddd595b6f",
-    "url": "/jahitin/static/js/main.41c3f9cd.chunk.js"
+    "revision": "06dd14ff3c50040cfea5",
+    "url": "/jahitin/static/js/main.3a395ae8.chunk.js"
   },
   {
     "revision": "22e97174b928cf0fcc4f",
