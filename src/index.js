@@ -29,7 +29,6 @@ ReactDOM.render(
       <Route path="/product" exact component={Product} />
       <Route path="/" exact component={Index} />
       {/* add redirect for first page */}
-      <Redirect from="*" to="/" />
     </Switch>
   </HashRouter>,
   document.getElementById("root")
