@@ -18,7 +18,7 @@ import Index from "views/Index.js";
 import Product from "views/Product.js";
 
 ReactDOM.render(
-  <BrowserRouter>
+  <BrowserRouter basename={process.env.PUBLIC_URL}>
     <Switch>
       {/* add routes with layouts */}
       <Route path="/admin" component={Admin} />
