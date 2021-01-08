@@ -1,6 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import { BrowserRouter, Route, Switch, Redirect } from "react-router-dom";
+import { HashRouter, Route, Switch, Redirect } from "react-router-dom";
 
 import "@fortawesome/fontawesome-free/css/all.min.css";
 import "assets/styles/tailwind.css";
@@ -18,7 +18,7 @@ import Index from "views/Index.js";
 import Product from "views/Product.js";
 
 ReactDOM.render(
-  <BrowserRouter basename={process.env.PUBLIC_URL}>
+  <HashRouter basename={process.env.PUBLIC_URL}>
     <Switch>
       {/* add routes with layouts */}
       <Route path="/admin" component={Admin} />
@@ -31,6 +31,6 @@ ReactDOM.render(
       {/* add redirect for first page */}
       <Redirect from="*" to="/" />
     </Switch>
-  </BrowserRouter>,
+  </HashRouter>,
   document.getElementById("root")
 );
